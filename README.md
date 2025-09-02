@@ -1,4 +1,16 @@
 ## Hi there 👋
+#### Research Interest
+Causal Discovery, Machine Learning, Statistical
+
+#### Publications
+##### Journal Papers
+
+
+##### Conference Papers
+
+
+#### Teaching Experience
+
 
 <!--
 **tingyanlin/tingyanlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
